@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Gabriel Enache 👋
+Software developer. I build tools that get out of my way.
 
-<!--
-**eIonut/eIonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Hearth
+Hearth — a personal local dev mission control. Start/stop project services, swap .env presets, run terminals in the browser, save snippets, and track what to learn next. Everything runs on localhost and stores data as plain JSON. MIT-licensed.
 
-Here are some ideas to get you started:
+## 🔗 Links
+- Hearth: https://github.com/eIonut/Hearth
+- GitHub: https://github.com/eIonut
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+Gabriel Enache — building Hearth and other things.
